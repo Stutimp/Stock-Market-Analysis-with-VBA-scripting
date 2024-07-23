@@ -32,6 +32,6 @@ Greatest total volume
 - **Multi-Sheet Processing:** The script runs on all worksheets within the workbook, processing each quarter's data.
 
 
--**Conclusion:**
+## **Conclusion:**
 This VBA script automates the analysis of stock market data, making it easier to extract meaningful insights across multiple quarters. It leverages VBA's power to handle repetitive tasks efficiently, providing a robust solution for stock data analysis.
 
